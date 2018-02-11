@@ -9,5 +9,5 @@
 * /ORDER
 * /CUS\_COMPLAINT
 * [/CATEGORY](category.md)
-* /SUGGESTION
+* [/SUGGESTION](suggestion.md)
 

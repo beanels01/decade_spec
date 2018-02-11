@@ -11,7 +11,7 @@
                 "id":(數字)
                 }
             ],
-            "AdBanner":["<stock id>"](banner精選商品)
+            "AdBanner":["<post id>"](banner精選文章)
         }
     ],
     "stock":[
@@ -24,7 +24,8 @@
             "name":"<分類名稱>",
             "id":(數字)
             }
-        ]
+        ],
+            "AdBanner":["<stock id>"](banner精選商品)
         }
     ]
 }
