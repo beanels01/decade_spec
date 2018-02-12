@@ -6,7 +6,7 @@
 * [/POST](post.md)
 * [/STOCK](stock.md)
 * [/COUPON](coupon.md)
-* /ORDER
+* [/ORDER](order.md)
 * /CUS\_COMPLAINT
 * [/CATEGORY](category.md)
 * [/SUGGESTION](suggestion.md)
